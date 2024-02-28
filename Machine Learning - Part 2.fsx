@@ -376,7 +376,7 @@ let line' =
 (** 
 
 The model library is constructed with the poolData function which is not shown here.
-The code for this can be found in the original source of the article [here](https://github.com/astrobytez/blogs)
+The code for this can be found in the original source of the article [here](https://github.com/astrobytez/blogs/blob/main/Machine%20Learning%20-%20Part%202.fsx)
 
 *)
 
