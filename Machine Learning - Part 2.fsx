@@ -1,5 +1,7 @@
 (**
-# Finding models from Data
+# Machine Learning - Part 2
+
+## Finding models from Data
 
 In this article I'm exploring the use of regression techniques to find models directly from data and find analytic model solutions using the Sparse Identification of Non-Linear Dynamics or SINdy.
 
